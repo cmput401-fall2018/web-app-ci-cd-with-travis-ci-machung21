@@ -3,3 +3,5 @@ def test_function():
 
 
 test_function()
+def test_b():
+    assert False
